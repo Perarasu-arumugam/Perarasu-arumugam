@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on : **ethical hacking projects**
 - 🤔 I’m looking for help with my Carrier😑
 - 💬 Ask me about :** My passion**
-- 📫 How to reach me : ![Instagram](https://www.instagram.com/arasu_pentester/profilecard/?igsh=OHllZW1wczFsdGpu)
+- 📫 How to reach me :
+- ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)
 - 😄 Pronouns: **ARASU😁**
 - ⚡ Fun fact: **I CAN HACK YOU **🧑‍💻
 -->
