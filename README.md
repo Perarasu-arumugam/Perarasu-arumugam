@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
-**Perarasu-arumugam/Perarasu-arumugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Am perarasu*
+> 
+> Currently studying my collge 1st year
+
 
 Here are some ideas to get you started:
 
